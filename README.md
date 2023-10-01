@@ -10,7 +10,7 @@ Chess AI that can beat any opponent
 
 ...
 
-## Hi, I'm Tim! 👋
+## Hi, I'm eownxn! 👋
 
 Once I saw the source code of one of the chess sites and I had an idea to realize my own AI, which will be able to beat **any** opponent
 
